@@ -1,1 +1,1 @@
-# Machine-Learning-model-to-enhance-UMBC-graduate-programs
+# Digital mentor for UMBC graduate programs
